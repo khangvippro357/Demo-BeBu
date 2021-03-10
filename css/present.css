@@ -102,6 +102,7 @@ html, body {
     position: relative;
     display: block;
     transform: scale(0.94);
+    height: 100%;
   }
   .present-box .present > .img-wrap a:hover {
     transform: scale(1);
